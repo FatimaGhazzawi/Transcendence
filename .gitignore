@@ -1,0 +1,26 @@
+node_modules/
+dist/
+build/
+coverage/
+*.log
+.DS_Store
+
+# env & secrets
+.env
+.env.*
+!.env.example
+
+# local database
+*.db
+*.db-journal
+*.sqlite
+apps/api/prisma/*.db
+
+# tls certs (generated)
+infra/certs/*.pem
+infra/certs/*.key
+infra/certs/*.crt
+
+# build info
+*.tsbuildinfo
+.vite/
