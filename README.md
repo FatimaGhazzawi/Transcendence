@@ -1,4 +1,4 @@
-*This project has been created as part of the 42 curriculum by hkanaan, \<login2\>, \<login3\>.*
+*This project has been created as part of the 42 curriculum by fel-ghaz, rnehme, atawbi*
 
 # Connect Four Arena
 
