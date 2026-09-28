@@ -23,10 +23,4 @@ A browser-based competitive Connect Four site, built for 42's `ft_transcendence`
 - **Database:** SQLite via Prisma
 - **Deployment:** Nginx + Docker Compose
 
-## Team
 
-| Member | Role(s) |
-|--------|---------|
-| hkanaan | Tech Lead + Developer |
-| \<login2\> | Product Owner + Developer |
-| \<login3\> | PM/Scrum Master + Developer |
